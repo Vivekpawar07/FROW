@@ -797,3 +797,13 @@ top:0;
 border:10px solid black;
 border-radius: 12px;
 }
+@media screen  and (max-width:680px) {
+  .animation img{
+    position: relative;
+    width:386px;
+    height:206px;
+    top:0;
+    border:10px solid black;
+    border-radius: 12px;
+    }
+}
