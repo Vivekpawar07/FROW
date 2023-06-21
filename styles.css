@@ -794,4 +794,6 @@ position: relative;
 width:546px;
 height:346px;
 top:0;
+border:10px solid black;
+border-radius: 12px;
 }
