@@ -781,9 +781,17 @@
     margin:0;
     bottom:40px;
 }
+/*fro tablet and laptop
 .animation img{
 position: relative;
 width:686px;
 height:386px;
+top:0;
+}*/
+/*for video only*/
+.animation img{
+position: relative;
+width:546px;
+height:346px;
 top:0;
 }
